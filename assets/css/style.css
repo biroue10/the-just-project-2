@@ -35,6 +35,7 @@ footer {
 .flex-container {
   display: flex;
   justify-content: space-around;
+  align-items: center;
 }
 i {
   color: #155eef;
@@ -70,6 +71,7 @@ a {
   display: flex;
   justify-content: center;
   align-items: center;
+  line-height: 2;
 }
 p {
   width: 50%;
@@ -101,4 +103,7 @@ h1 {
 }
 .aboutme {
   margin-left: 40px;
+}
+.pied {
+  font-weight: bold;
 }

@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prettier": "npx prettier --write * "
   },
   "repository": {
     "type": "git",
@@ -18,3 +19,6 @@
   },
   "homepage": "https://github.com/biroue10/the-just-project-2#readme"
 }
+
+
+

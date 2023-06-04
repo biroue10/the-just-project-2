@@ -1,0 +1,30 @@
+section {
+  border: solid 1px #155eef;
+  border-radius: 10px;
+}
+li {
+  list-style: none;
+  display: inline;
+  padding-left: 100px;
+}
+.topnavbar_right {
+  float: right;
+}
+.topnav {
+  overflow: hidden;
+  border: solid 2px #155eef;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  font-family: "Times New Roman", Times, serif;
+}
+img {
+  width: 200px;
+  padding-left: 30px;
+}
+.hireme {
+  padding-right: 50px;
+}
+footer {
+  border: solid 2px #155eef;
+  border-radius: 10px;
+}

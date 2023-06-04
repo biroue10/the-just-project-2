@@ -39,8 +39,8 @@ footer {
 }
 .flex-container {
   display: flex;
-  justify-content: space-around;
-  align-items: center;
+  justify-content: space-between;
+  padding-right: 20px;
 }
 i {
   color: #155eef;
@@ -109,6 +109,9 @@ h1 {
 }
 .pied {
   font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .text {
   line-height: 2;
@@ -119,4 +122,6 @@ h1 {
 }
 .hireme a {
   color: #155eef;
+}
+.image_pied{
 }

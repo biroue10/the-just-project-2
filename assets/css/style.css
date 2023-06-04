@@ -35,12 +35,14 @@ img {
 }
 footer {
   border: solid 2px #155eef;
-  border-radius: 5px;
+  border-radius: 10px;
 }
 .flex-container {
   display: flex;
   justify-content: space-between;
   padding-right: 20px;
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
 i {
   color: #155eef;

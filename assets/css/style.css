@@ -20,6 +20,7 @@ li {
 img {
   width: 200px;
   padding-left: 30px;
+  border: 2px;
 }
 .hireme {
   padding-right: 50px;
@@ -34,8 +35,8 @@ footer {
 }
 i {
   color: #155eef;
-  padding-left: 10px;
-  padding-right: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 .icons {
   display: flex;
@@ -50,4 +51,23 @@ a {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+.section1 {
+  background-color: #f9fbff;
+  margin-bottom: 40px;
+}
+.section1 .flex-container2 {
+  padding-right: 10px;
+  padding-left: 10px;
+}
+.flex-container3{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+p{
+  width: 50%;
+}
+.section2{
+  margin-bottom: 40px;
 }

@@ -28,3 +28,26 @@ footer {
   border: solid 2px #155eef;
   border-radius: 10px;
 }
+.flex-container {
+  display: flex;
+  justify-content: space-around;
+}
+i {
+  color: #155eef;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+.flex-container2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

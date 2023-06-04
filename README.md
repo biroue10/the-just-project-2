@@ -1,1 +1,1 @@
-The just project 
+The just project

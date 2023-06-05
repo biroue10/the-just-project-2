@@ -1,6 +1,6 @@
 .container {
-  padding-left: 20px;
-  padding-right: 20px;
+  padding-left: 40px;
+  padding-right: 40px;
   padding-top: 5px;
   padding-bottom: 5px;
 }
@@ -22,6 +22,7 @@ li {
   margin-bottom: 20px;
   font-family: "Times New Roman", Times, serif;
   padding-right: 20px;
+  font-weight: bold;
 }
 img {
   width: 200px;
@@ -75,20 +76,11 @@ a {
 }
 .flex-container3 {
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
   align-items: center;
-}
-p {
-  width: 50%;
 }
 .section2 {
   margin-bottom: 40px;
-}
-.section2 .flex-container3 {
-  padding-right: 40px;
-  padding-left: 40px;
-  padding-top: 40px;
-  padding-bottom: 40px;
 }
 button {
   background-color: #155eef;
@@ -125,5 +117,4 @@ h1 {
 .hireme a {
   color: #155eef;
 }
-.image_pied{
-}
+

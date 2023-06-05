@@ -63,7 +63,6 @@ a {
   display: flex;
   justify-content: center;
   align-items: center;
-
 }
 .section1 {
   background-color: #f9fbff;
@@ -123,6 +122,6 @@ h1 {
 .hireme a {
   color: #155eef;
 }
-.text2{
-text-align: justify;
+.text2 {
+  text-align: justify;
 }

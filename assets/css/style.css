@@ -21,7 +21,7 @@ li {
   border-radius: 10px;
   margin-bottom: 20px;
   font-family: "Times New Roman", Times, serif;
-  padding-right: 20px;
+  padding-right: 40px;
   font-weight: bold;
 }
 img {
@@ -41,9 +41,9 @@ footer {
 .flex-container {
   display: flex;
   justify-content: space-between;
-  padding-right: 20px;
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-right: 40px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 i {
   color: #155eef;
@@ -86,6 +86,7 @@ a {
 }
 .section2 {
   margin-bottom: 40px;
+  padding-right: 40px;
 }
 button {
   background-color: #155eef;
@@ -104,7 +105,7 @@ h1 {
   font-size: 2rem;
 }
 .aboutme {
-  margin-left: 40px;
+  margin-left: 70px;
 }
 .pied {
   font-family: Arial, Helvetica, sans-serif;
@@ -121,4 +122,7 @@ h1 {
 }
 .hireme a {
   color: #155eef;
+}
+.text2{
+text-align: justify;
 }

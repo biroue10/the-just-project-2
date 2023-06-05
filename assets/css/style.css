@@ -63,10 +63,13 @@ a {
   display: flex;
   justify-content: center;
   align-items: center;
+
 }
 .section1 {
   background-color: #f9fbff;
   margin-bottom: 40px;
+  padding-bottom: 70px;
+  padding-top: 70px;
 }
 .section1 .flex-container2 {
   padding-right: 40px;
@@ -78,6 +81,8 @@ a {
   display: flex;
   justify-content: space-around;
   align-items: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 .section2 {
   margin-bottom: 40px;

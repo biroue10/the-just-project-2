@@ -8,7 +8,7 @@ section {
   border: solid 2px #155eef;
   border-radius: 10px;
 }
-.container > ul > li {
+.topnavbar_right > ul > li {
   list-style: none;
   display: inline;
 }
